@@ -1,0 +1,20 @@
+{
+  "name": "scrape-menfess",
+  "private": true,
+  "version": "1.0.0",
+  "description": "My attempt to restore the \"menfess\" functionality for free by circumventing the new Twitter API changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comfyte/scrape-menfess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comfyte/scrape-menfess/issues"
+  },
+  "homepage": "https://github.com/comfyte/scrape-menfess#readme"
+}
